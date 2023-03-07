@@ -13,6 +13,7 @@ PUT - http://localhost:8080/wallet/"/{id}"
 
 DELETE - http://localhost:8080/wallet/"/{id}"
 
+I have also added screenshots of POSTMAN verifications.
 
 All the functional requirements are implemented here - 
 1. The vendor table should store the following attributes of the vendor:
